@@ -15,7 +15,7 @@ $ npm install --save sqlite3
 $ npm install --save tedious // MSSQL
 
 # Todo:
-- [ ] Migration MongoDB --> Sequelize (WIP)
+- [ ] Migration MongoDB → Sequelize (WIP)
 - [ ] View
 - [ ] API
 - [ ] Motivation
