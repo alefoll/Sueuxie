@@ -20,3 +20,6 @@ $ npm install --save tedious // MSSQL
 - [ ] API
 - [ ] Motivation
 - [x] Netflix
+
+# Status
+This project is on hold since end of 2015.
