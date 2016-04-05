@@ -1,7 +1,5 @@
 Sueuxie !
 
-sueuxie.io
-
 http://tympanus.net/Development/ImageGridEffects/index2.html
 
 To do for install :
